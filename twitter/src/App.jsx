@@ -23,7 +23,7 @@ function App() {
       
     }
     else{
-      baseUrl = "https://tired-pinafore-mite.cyclic.app"
+      baseUrl = "https://wild-ruby-oyster-cap.cyclic.app"
     }
 
     const getProfile = async () => {
